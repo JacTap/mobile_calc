@@ -17,10 +17,17 @@
 //   data: data,
 // };
 
+
+// var line_chart = document.getElementById('myChart'); // node
+// var line_chart = document.getElementById('myChart').getContext('2d'); // 2d context
+// var line_chart = $('#myChart'); // jQuery instance
+var line_chart = 'myChart'; // element id
+
+
 const xValues = ["Jan", "Feb", "March", "April", "May", "June", "July", "Aug", "Sept", "Oct", "Nov", "Dec"];
 const yValues = [7, 8, 8, 9, 9, 9, 10, 11, 14, 14, 15, 6];
 
-new Chart("myChart", {
+var myChart = new Chart(line_chart, {
   type: "line",
   data: {
     labels: xValues,
