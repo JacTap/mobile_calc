@@ -18,33 +18,37 @@
 // };
 
 
-// var line_chart = document.getElementById('myChart'); // node
-// var line_chart = document.getElementById('myChart').getContext('2d'); // 2d context
-// var line_chart = $('#myChart'); // jQuery instance
+
 var line_chart = 'myChart'; // element id
 
 
-const xValues = ["Jan", "Feb", "March", "April", "May", "June", "July", "Aug", "Sept", "Oct", "Nov", "Dec"];
-const yValues = [7, 8, 8, 9, 9, 9, 10, 11, 14, 14, 15, 6];
+const xValues = [50,60,70,80,90,100,110,120,130,140,150];
+const yValues = [7,8,8,9,9,9,10,11,14,14,15];
 
-var myChart = new Chart(line_chart, {
+new Chart("myChart", {
   type: "line",
   data: {
     labels: xValues,
-    datasets: [
-      {
-        fill: false,
-        lineTension: 0,
-        backgroundColor: "rgba(0,0,255,1.0)",
-        borderColor: "rgba(0,0,255,0.1)",
-        data: yValues,
-      },
-    ],
+    datasets: [{
+      fill: false,
+      lineTension: 0,
+      backgroundColor: "rgba(0,0,255,1.0)",
+      borderColor: "rgba(0,0,255,0.1)",
+      data: yValues,
+      borderWidth: 8
+    }]
   },
+
   options: {
-    legend: { display: false },
+    legend: {display: false},
     scales: {
-      y: [{ ticks: { min: 6, max: 16 } }],
+      y: {
+        min: 0,
+        max: 20,
+        ticks: {
+          stepSize: 2
+        }
+      }
     },
-  },
+  }
 });
