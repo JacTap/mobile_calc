@@ -37,7 +37,7 @@ new Chart("myChart", {
   options: {
     legend: { display: false },
     scales: {
-      yAxes: [{ ticks: { min: 6, max: 16 } }],
+      y: [{ ticks: { min: 6, max: 16 } }],
     },
   },
 });
