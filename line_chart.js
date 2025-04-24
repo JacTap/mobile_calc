@@ -72,3 +72,5 @@ new Chart("myChart", {
   data: data,
   options: options,
 });
+Chart.register(ChartDataLabels)
+
