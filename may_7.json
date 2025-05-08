@@ -1,0 +1,168 @@
+  [
+    {
+      "_id": "680059278308433daa97cea2",
+      "name": "260 Sample Sale",
+      "website": "260samplesale.com",
+      "vertical": "Fashion & Apparel",
+      "Age Demographic Tag": "Millennial dominant",
+      "Age Demographic Description": "25–34 is largest segment",
+      "Geography Tag": "US Dominant",
+      "Geography Description": "Traffic is overwhelmingly U.S.-based",
+      "Device Tag": "Mobile Majority",
+      "Device Split Description": "Majority of sessions from mobile web, but desktop still substantial",
+      "Gender Tag": "Female Majority",
+      "Gender Description": "Clear female skew",
+      "Vertical Tag": "Fashion & Apparel",
+      "Sessions_JSON": [
+        {
+          "date": "2024-04-01T00:00:00.000Z",
+          "visits": 1027477.3163563913
+        },
+        {
+          "date": "2024-05-01T00:00:00.000Z",
+          "visits": 1091148.8522818277
+        },
+        {
+          "date": "2024-06-01T00:00:00.000Z",
+          "visits": 1286706.8548172168
+        },
+        {
+          "date": "2024-07-01T00:00:00.000Z",
+          "visits": 1131397.571153975
+        },
+        {
+          "date": "2024-08-01T00:00:00.000Z",
+          "visits": 1052159.5451557883
+        },
+        {
+          "date": "2024-09-01T00:00:00.000Z",
+          "visits": 846467.5249156144
+        },
+        {
+          "date": "2024-10-01T00:00:00.000Z",
+          "visits": 1060834.4385479584
+        },
+        {
+          "date": "2024-11-01T00:00:00.000Z",
+          "visits": 1148940.5819495607
+        },
+        {
+          "date": "2024-12-01T00:00:00.000Z",
+          "visits": 934364.5025216537
+        },
+        {
+          "date": "2025-01-01T00:00:00.000Z",
+          "visits": 1330142.975112671
+        },
+        {
+          "date": "2025-02-01T00:00:00.000Z",
+          "visits": 884936.7823964362
+        },
+        {
+          "date": "2025-03-01T00:00:00.000Z",
+          "visits": 1111195.8401270811
+        }
+      ],
+      "TTM_Sessions": 12905772.79,
+      "Industry Average AOV": "$92.67",
+      "Industry Average CVR": "2.04%",
+      "Estimated Revenue Lift": "$5,436,615",
+      "Estimated DTC Revenue Current": "$24,397,950",
+      "Estimated DTC Orders Current": "263,278",
+      "Estimated Blended AOV Current": "$93",
+      "Estimated DTC Revenue After": "$29,834,566",
+      "Estimated DTC Orders After": "314,850",
+      "Estimated Blended AOV After": "$94.76",
+      "Web Aquired, Web Only": "96.71%",
+      "Web Acquired, App+Web (Before App)": "3.29%",
+      "Before App Distribution \r\n(average based on empiracal data)": "3.37%",
+      "Forecaseted AOV by segment\r\n(estimated based on empirical data)": "$97",
+      "Forecasted Orders by segment\r\n(estimated based on empirical data)": "10,610",
+      "Forecased Revenue by segment\r\n(estimated based on empirical data)": "$1,029,571",
+      "Constants in logic": 1.1923896,
+      "Constants in logic\r": 1.052127485
+    },
+    {
+      "_id": "680059168308433daa97ccfc",
+      "name": 47,
+      "website": "47brand.com",
+      "vertical": "Fashion & Apparel",
+      "Age Demographic Tag": "Millennial bridge",
+      "Age Demographic Description": "Heaviest concentration 25–44",
+      "Geography Tag": "US Dominant",
+      "Geography Description": "Traffic is overwhelmingly U.S.-based",
+      "Device Tag": "Mobile Dominant",
+      "Device Split Description": "Strong mobile skew—clearly app-ready audiences",
+      "Gender Tag": "Male Core Audience",
+      "Gender Description": "Clear male skew",
+      "Vertical Tag": "Fashion & Apparel",
+      "Sessions_JSON": [
+        {
+          "date": "2024-04-01T00:00:00.000Z",
+          "visits": 1568642.1096760575
+        },
+        {
+          "date": "2024-05-01T00:00:00.000Z",
+          "visits": 1512672.2494194347
+        },
+        {
+          "date": "2024-06-01T00:00:00.000Z",
+          "visits": 1238273.9285538902
+        },
+        {
+          "date": "2024-07-01T00:00:00.000Z",
+          "visits": 1293677.2598214354
+        },
+        {
+          "date": "2024-08-01T00:00:00.000Z",
+          "visits": 1385626.0574490754
+        },
+        {
+          "date": "2024-09-01T00:00:00.000Z",
+          "visits": 1586123.507889878
+        },
+        {
+          "date": "2024-10-01T00:00:00.000Z",
+          "visits": 1291841.876224937
+        },
+        {
+          "date": "2024-11-01T00:00:00.000Z",
+          "visits": 1477495.0030792123
+        },
+        {
+          "date": "2024-12-01T00:00:00.000Z",
+          "visits": 1661385.8822000774
+        },
+        {
+          "date": "2025-01-01T00:00:00.000Z",
+          "visits": 1195136.1847891598
+        },
+        {
+          "date": "2025-02-01T00:00:00.000Z",
+          "visits": 1283399.0262951206
+        },
+        {
+          "date": "2025-03-01T00:00:00.000Z",
+          "visits": 1352455.2645303626
+        }
+      ],
+      "TTM_Sessions": 16846728.35,
+      "Industry Average AOV": "$92.67",
+      "Industry Average CVR": "2.04%",
+      "Estimated Revenue Lift": "$7,096,761",
+      "Estimated DTC Revenue Current": "$31,848,201",
+      "Estimated DTC Orders Current": "343,673",
+      "Estimated Blended AOV Current": "$93",
+      "Estimated DTC Revenue After": "$38,944,962",
+      "Estimated DTC Orders After": "410,994",
+      "Estimated Blended AOV After": "$94.76",
+      "Web Aquired, Web Only": "96.71%",
+      "Web Acquired, App+Web (Before App)": "3.29%",
+      "Before App Distribution \r\n(average based on empiracal data)": "3.37%",
+      "Forecaseted AOV by segment\r\n(estimated based on empirical data)": "$97",
+      "Forecasted Orders by segment\r\n(estimated based on empirical data)": "13,851",
+      "Forecased Revenue by segment\r\n(estimated based on empirical data)": "$1,343,965",
+      "Constants in logic": 1.1923896,
+      "Constants in logic\r": 1.052127485
+    }
+  ]
